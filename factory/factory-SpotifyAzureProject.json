@@ -1,0 +1,9 @@
+{
+	"name": "factory-SpotifyAzureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a04fb4f-ac87-4b3b-9c5d-4bc906e42b9c",
+		"tenantId": "9275f7ac-5394-4717-afef-0f12a8fd2b4d"
+	}
+}
